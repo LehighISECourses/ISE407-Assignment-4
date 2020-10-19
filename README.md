@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html >
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
-<meta name="generator" content="hevea 2.30">
-<title>ps4</title>
-</head>
-<body >
-<!--HEVEA command line is: /usr/bin/hevea ps4.tex -->
-<!--CUT STYLE article--><!--CUT DEF section 1 --><p><span style="font-size:x-large"><span style="font-weight:bold">Problem Set 4 <br>
 ISE 407 &#X2013; Computational Methods in Optimization <br>
 Due: November 1, 2019 <br>
 Dr. Ralphs</span></span> <br>
@@ -131,9 +121,3 @@ implementation or the other.
 by expliting cache effects or otherwise. Report on any optimizations you
 find. 
 </li></ul></li></ol><!--CUT END -->
-<!--HTMLFOOT-->
-<!--ENDHTML-->
-<!--FOOTER-->
-<hr style="height:2"><blockquote class="quote"><em>This document was translated from L<sup>A</sup>T<sub>E</sub>X by
-</em><a href="http://hevea.inria.fr/index.html"><em>H</em><em><span style="font-size:small"><sup>E</sup></span></em><em>V</em><em><span style="font-size:small"><sup>E</sup></span></em><em>A</em></a><em>.</em></blockquote></body>
-</html>
