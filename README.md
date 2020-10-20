@@ -1,6 +1,8 @@
 <p>Assignment 4 <br>
 Due: October 29, 2020 <br>
 
+Note: A full HTML version of this document can be viewed [here](https://htmlpreview.github.io/?https://github.com/LehighISECourses/ISE407-Assignment-4/blob/main/ps4.html).
+
 </p><ol class="enumerate" type=1><li class="li-enumerate">Consider the following algorithm for multiplying 2 &#XD7; 2
 matrices. To compute the product
 <table class="display dcenter"><tr style="vertical-align:middle"><td class="dcell">
