@@ -87,6 +87,6 @@ that <span style="font-style:italic">T</span>(<span style="font-style:italic">n<
 <span style="font-style:italic">p</span><sub><span style="font-style:italic">j</span></sub>, and a deadline <span style="font-style:italic">d</span><sub><span style="font-style:italic">j</span></sub>. If you complete a task <span style="font-style:italic">j</span> by
 deadline <span style="font-style:italic">d</span><sub><span style="font-style:italic">j</span></sub>, you receive a profit <span style="font-style:italic">p</span><sub><span style="font-style:italic">j</span></sub> (otherwise, you receive
 no profit). You wish to find a schedule that completes all the tasks
-and derives the maximum profit. <ol class="enumerate" type=a><li class="li-enumerate">State the decision version of this problem.</li><li class="li-enumerate">show that it is NP-complete by reducing the knapsack problem to
+and derives the maximum profit. <ol class="enumerate" type=a><li class="li-enumerate">State the decision version of this problem.</li><li class="li-enumerate">Show that it is NP-complete by reducing the knapsack problem to
 it.</li><li class="li-enumerate">Give a polynomial-time algorithm for the decision problem,
 assuming that all processing times are integers from 1 to <span style="font-style:italic">n</span>. </li></ol></li></ol>
